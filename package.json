@@ -59,7 +59,8 @@
         "kind": "hana-cloud"
       }
     }
-  },
+  }
+  ,
   "sapux": [
     "app/interactions_items"
   ],
